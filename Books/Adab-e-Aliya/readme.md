@@ -1,6 +1,5 @@
 # Published Open Source Adab-e-Aliya Books
-
-<div dir='rtl'>
+<p dir="rtl" lang="ur" style="text-align: right">
 - باغ و بہار
 - فردوس بریں
 - سیر ایران
@@ -44,4 +43,4 @@
 - گوہر مقصود
 - اتالیق بی بی
 - گلدستۂ ظرافت
-</div>
+</p>
